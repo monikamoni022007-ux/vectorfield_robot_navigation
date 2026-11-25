@@ -1,0 +1,6 @@
+{
+  "name": "Vector Field Navigation & Circulation Lab",
+  "description": "Interactive applied mathematics simulation demonstrating artificial potential fields, gradients, curl, and Green's theorem for robotic navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
